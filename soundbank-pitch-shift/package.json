@@ -1,0 +1,60 @@
+{
+  "_from": "soundbank-pitch-shift",
+  "_id": "soundbank-pitch-shift@1.0.3",
+  "_inBundle": false,
+  "_integrity": "sha1-n0kEPdJqc9ifMUgo3Wm0MyKvVbs=",
+  "_location": "/soundbank-pitch-shift",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "soundbank-pitch-shift",
+    "name": "soundbank-pitch-shift",
+    "escapedName": "soundbank-pitch-shift",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/soundbank-pitch-shift/-/soundbank-pitch-shift-1.0.3.tgz",
+  "_shasum": "9f49043dd26a73d89f314828dd69b43322af55bb",
+  "_spec": "soundbank-pitch-shift",
+  "_where": "C:\\Users\\Sam\\Desktop\\music-player\\src",
+  "author": {
+    "name": "Matt McKegg"
+  },
+  "bugs": {
+    "url": "https://github.com/mmckegg/soundbank-pitch-shift/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "custom-audio-node": "^0.3.0"
+  },
+  "deprecated": false,
+  "description": "Simple pitch shifter for Web Audio API based on delay nodes. Extends Jungle by Chris Wilso.",
+  "devDependencies": {},
+  "homepage": "https://github.com/mmckegg/soundbank-pitch-shift",
+  "keywords": [
+    "pitch",
+    "shift",
+    "waapi",
+    "guitar",
+    "glitch",
+    "audio",
+    "AudioNode"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "soundbank-pitch-shift",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mmckegg/soundbank-pitch-shift.git"
+  },
+  "scripts": {
+    "test": "beefy test.js"
+  },
+  "version": "1.0.3"
+}
