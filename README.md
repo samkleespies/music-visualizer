@@ -1,6 +1,5 @@
 # music-visualizer
 
-A music player / visualizer / effects app in React
+A music player / visualizer / effects app made using React.
 
-Demo: https://m8upy.csb.app/
-note: visualizer and effects currently not working in CodeSandBox demo
+Demo: https://samkleespies.com/visualizer.html
